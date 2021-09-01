@@ -1,0 +1,6 @@
+﻿
+print("Hallo Welt");
+string: myString = "Hi, this is my string!";
+print(myString);
+int: i = 3;
+print(i);
